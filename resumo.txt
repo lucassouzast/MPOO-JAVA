@@ -1,0 +1,8 @@
+Resumo:
+
+	UML - diagrana use case/classe
+	    - relações (include, extends, dependencia)
+	
+	OO - variável,m memoria, classe, atributo,
+	     objeto, alocação de memória, referência(this)
+             polimorfirsmo/sobrecarga de métodos
